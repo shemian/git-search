@@ -1,0 +1,11 @@
+.body{
+  text-align: center;
+}
+.bg-black {
+    background-color: rgb(61, 61, 65);
+    color: rgb(130, 160, 214);
+  }
+  .nav-item {
+    background-color: black;
+  }
+  

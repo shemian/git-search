@@ -1,0 +1,14 @@
+.beef {
+    justify-content: center;
+    text-align: center;
+  }
+  form {
+    justify-content: center;
+  }
+  .btn {
+    background-color: rgb(234, 238, 236);
+  }
+  .btn:hover {
+    background-color: rgb(85, 86, 88);
+  }
+  
